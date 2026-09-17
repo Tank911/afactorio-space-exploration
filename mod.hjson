@@ -4,9 +4,9 @@ description:
 factorio space exploration+K2 in mindustry, also has lots of my additions and is undeveloped, to research you must make tech packs and escape the galaxy
 0.05 update features: first sector, wood growing, manufacturing, balancing, and more
 '''
-author: "minos prime ultrakill (AKA auvathia teams leader)"
+author: "Tank 911"
 minGameVersion: 146
 version: "alpha v0.05"
 displayName: "space exploration"
 subtitle: "most rocc"
-dependencies: ["multi-crafter"]
+dependencies: ["multicrafter"]
